@@ -7,3 +7,4 @@ typedef nx_struct RssiMsg{
 nx_int16_t rssi;
 } RssiMsg;
 #endif
+
